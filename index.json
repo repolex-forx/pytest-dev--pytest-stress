@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "pytest-stress",
+  "versions": [
+    {
+      "commit": "2f4a6fb8a3be26963854a3ed7f341668b3cdeefa",
+      "tag": "",
+      "parsed_at": "2026-10-11T09:04:33.268656+00:00"
+    }
+  ]
+}
