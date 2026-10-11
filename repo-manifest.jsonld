@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-stress/commit/2f4a6fb8a3be26963854a3ed7f341668b3cdeefa",
       "git:hexsha": "2f4a6fb8a3be26963854a3ed7f341668b3cdeefa",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T09:04:33.268239+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pytest-dev/pytest-stress/commit/239a604b8d126b8b8732f2286c37cbf8eefd0d23",
